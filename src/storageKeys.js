@@ -1,0 +1,1 @@
+export const isShowMenuKey = 'wdh_option_isShowMenu'
