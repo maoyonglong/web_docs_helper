@@ -35,7 +35,7 @@
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
-    "dexie": "^3.0.1",
+    "dexie": "^3.2.2",
     "element-ui": "^2.13.2",
     "mavon-editor": "^2.9.0",
     "vue": "^2.6.11"
